@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_next"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="@string/title_next" />
+
+    <item
+        android:id="@+id/navigation_open"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/title_open" />
+    <item
+        android:id="@+id/navigation_togle"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/title_togle" />
+
+    <item
+        android:id="@+id/navigation_translate"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="@string/title_translate" />
+
+
+</menu>

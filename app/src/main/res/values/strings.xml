@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memorizer</string>
+    <string name="title_translate">Translate</string>
+    <string name="title_open">Open</string>
+    <string name="title_togle">Togle</string>
+    <string name="title_next">Next</string>
+</resources>
